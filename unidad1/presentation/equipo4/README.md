@@ -12,11 +12,11 @@
 
 ## Datos del lenguaje
 
-- **Año / origen:** 2011 (José Valim)
-- **Creador(es):** _(completar)_
+- **Año / origen:** primer commit el 9 de enero de 2011, Brasil; primeras versiones públicas en 2012; versión 1.0 publicada el 18 de septiembre de 2014.
+- **Creador(es):** José Valim, quien inició Elixir como un proyecto de investigación y desarrollo dentro de Plataformatec.
 - **Modelo de evaluación:** estricto; `Stream` para evaluación diferida
-- **Sistema de tipos:** dinámico; sobre la BEAM
-- **REPL / herramienta:** `iex` / `mix`
+- **Sistema de tipos:** dinámico; se ejecuta sobre la máquina virtual BEAM
+- **REPL / herramienta:** `iex` como consola interactiva y `mix` para crear, compilar y administrar proyectos
 - **Caso real verificado (obligatorio en pantalla):** Discord — infraestructura de presencia migrada de Go a Elixir (2017). _(fuente IEEE abajo)_
 
 ## Guion (12–15 min)
@@ -69,9 +69,10 @@ Salida esperada:
 
 ## Bibliografía (IEEE)
 
-1. _(fuente 1)_
-2. _(fuente 2)_
-3. _(fuente 3)_
+1. Elixir Team, “Development,” Elixir Programming Language. [En línea]. Disponible en: https://elixir-lang.org/development/. [Consultado: 17-sep-2026].
+2. J. Valim, “Elixir Design Goals,” Elixir Programming Language, 8-ago-2013. [En línea]. Disponible en: https://elixir-lang.org/blog/2013/08/08/elixir-design-goals/. [Consultado: 17-sep-2026].
+3. J. Valim, “Elixir v1.0.0 released,” Elixir Programming Language, 18-sep-2014. [En línea]. Disponible en: https://elixir-lang.org/blog/2014/09/18/elixir-v1-0-0-released/. [Consultado: 17-sep-2026].
+4. J. Valim, “Elixir v0.5.0 released,” Elixir Programming Language, 25-may-2012. [En línea]. Disponible en: https://elixir-lang.org/blog/2012/05/25/elixir-v0-5-0-released/. [Consultado: 17-sep-2026].
 
 ---
 
